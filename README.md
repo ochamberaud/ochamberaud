@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ochamberaud
 - 👀 I’m interested in automated deployment on roks (openshift) clusters
-- 🌱 I’m currently learning with a home IRB application use by Agile coach and squads to evaluate Agile maturity
+- 🌱 I’m currently learning with a homemade IRB application use by Agile coachs and squads to evaluate Agile maturity
 - 💞️ I’m looking to collaborate on apigee & keycloak
 - 📫 You can reach me @ olivier.chamberaud@bnpparibas.com
 
